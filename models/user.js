@@ -1,6 +1,6 @@
 // models/user.js
 
-const users = [];
+const users = []; 
 
 module.exports = {
   users,
